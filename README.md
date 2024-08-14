@@ -19,6 +19,9 @@
 ### The Comprehensive LaTeX Symbol List
 - Scott Pakin - 2024 - 481 pages
 - https://ctan.org/pkg/comprehensive
+### La FAQ LaTeX visuelle
+- Scott Pakin - 2023 - 33 pages
+- https://ctan.org/pkg/visualfaq-fr
 ### The Not So Short Introduction to LaTeX
 - Tobias Oetike - 2023 - 298 pages - anglais
 - https://tobi.oetiker.ch/lshort/lshort.pdf
