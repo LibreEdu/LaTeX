@@ -13,6 +13,8 @@
 - Eddie Saudrais - 2000 - 15 pages
 - https://www.gutenberg-asso.fr/IMG/pdf/saudrais-typo.pdf
 ## LaTeX
+### Apprenez LaTeX en ligne : cours gratuit pour débutant
+- https://www.learnlatex.org/fr/
 ### Rédaction avec \title{LATEX}
 - Vincent Goulet - 2024 - 186 pages
 - https://ctan.org/pkg/formation-latex-ul
