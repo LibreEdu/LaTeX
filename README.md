@@ -15,15 +15,9 @@
 ## LaTeX
 ### Apprenez LaTeX en ligne : cours gratuit pour débutant
 - https://www.learnlatex.org/fr/
-### Les ornements de la fonte Fourier-GUTenberg
-- Jacques André - 2009 - 12 diapos
-- http://jacques-andre.fr/fontex/Fourier-orn.pdf
 ### Rédaction avec \title{LATEX}
 - Vincent Goulet - 2024 - 186 pages
 - https://ctan.org/pkg/formation-latex-ul
-### The Comprehensive LaTeX Symbol List
-- Scott Pakin - 2024 - 481 pages
-- https://ctan.org/pkg/comprehensive
 ### La FAQ LaTeX visuelle
 - Scott Pakin - 2023 - 33 pages
 - https://ctan.org/pkg/visualfaq-fr
@@ -66,9 +60,19 @@
 ### Page web de Philippe Goutet
 - 2010 - aide-mémoire
 - http://pgoutet.free.fr/latex/index.html
+### Les ornements de la fonte Fourier-GUTenberg
+- Jacques André - 2009 - 12 diapos
+- http://jacques-andre.fr/fontex/Fourier-orn.pdf
 ### Tutorial LATEX
 - Sebastien Varrette - 2008 - 33 pages
 - https://orbilu.uni.lu/bitstream/10993/16701/1/Tutorial_Latex.pdf
+## Packages
+### The Comprehensive LaTeX Symbol List
+- Scott Pakin - 2024 - 481 pages
+- https://ctan.org/pkg/comprehensive
+### xcolor
+- Dr. Uwe Kern
+- https://ctan.org/pkg/xcolor
 ## Questions et réponses
 ### FAQ LaTeX francophone
 - https://www.latex-fr.net/
